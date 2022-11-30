@@ -1,6 +1,6 @@
 ﻿[E:1]
 [RES:][XS:dantalk,1][C:15]Дана:[C:C] Джилл, ходи но сюди на секунду.[STOPLIP:]
-[HIDEALL:][XS:jilltalk,1][C:13]Джилл:[C:C] Босс?[STOPLIP:]
+[HIDEALL:][XS:jilltalk,1][C:13]Джилл:[C:C] Бос?[STOPLIP:]
 [SHOW:185,sprite_dana][C:15]Дана:[C:C][XS:dantalk,1] Чому б тобі не присісти?[STOPLIP:]
 [XS:jilltalk,1][C:13]Джилл:[C:C] Що?[STOPLIP:]
 [XS:dantalk,1][C:15]Дана:[C:C] Сідай. От сюди.[STOPLIP:]
@@ -8,7 +8,7 @@
 [XS:dantalk,1][C:15]Дана:[C:C] З тобою все ок? Ти ж не просто робиш #найпростіші коктейлі, правда?[STOPLIP:]
 [XS:jilltalk,1][C:13]Джилл:[C:C] Ну...[STOPLIP:]
 [XS:dantalk,1][C:15]Дана:[C:C] Чому б тобі не піти додому сьогодні? #Відпочинь трохи, а я тут впораюсь.[STOPLIP:]
-[XS:jilltalk,1][C:13]Джилл:[C:C] Але Босс...![STOPLIP:]
+[XS:jilltalk,1][C:13]Джилл:[C:C] Але Бос...![STOPLIP:]
 [XS:danaface,worry][C:15]Дана:[C:C][XS:dantalk,1] Ніяких але, юна леді.[STOPLIP:]
 [XS:jilltalk,1][C:13]Джилл:[C:C] Але..?[STOPLIP:]
 [XS:dantalk,1][C:15]Дана:[C:C] Мені треба, щоб ти була в формі, заради всієї #команди.[STOPLIP:]
@@ -16,7 +16,7 @@
 [XS:dantalk,1][C:15]Дана:[C:C] Я відправляю тебе на лаву запасних, рядовий.[STOPLIP:]
 [XS:jilltalk,1][C:13]Джилл:[C:C] (Лава запасних? Рядовий? Але-... що?)[STOPLIP:][XS:client,-10][E:2]
 [RES:][XS:danaface,worry][C:15]Дана:[C:C][XS:dantalk,1] ...[STOPLIP:]
-[XS:jilltalk,1][C:13]Джилл:[C:C] Босс?[STOPLIP:]
+[XS:jilltalk,1][C:13]Джилл:[C:C] Бос?[STOPLIP:]
 [XS:dantalk,1][C:15]Дана:[C:C] Джилл, чому б тобі не взяти #відгул до кінця дня?[STOPLIP:]
 [XS:jilltalk,1][C:13]Джилл:[C:C] Що? Чому?[STOPLIP:]
 [XS:dantalk,1][C:15]Дана:[C:C] В мене є підозра, що ти просто робила найпростіші коктейлі знов і #знов.[STOPLIP:]
@@ -34,7 +34,7 @@
 [XS:jilltalk,1][C:13]Джилл:[C:C] ...[STOPLIP:]
 [XS:dantalk,1][C:15]Дана:[C:C] Давай. Йди сюди. Джил буде головним в цій фортеці, поки ми прогуляємось.[STOPLIP:][XS:client,-10][E:4]
 [RES:][HIDEALL:][C:15]Дана:[C:C][XS:dantalk,1] ДЖИИИИИИИИИИИИИИИИИЛЛ!![STOPLIP:]
-[XS:jilltalk,1][C:13]Джилл:[C:C] Босс?
+[XS:jilltalk,1][C:13]Джилл:[C:C] Бос?
 [SHOW:185,sprite_dana][XS:danaface,worry][XS:jilltalk,1][C:13]Джилл:[C:C] Хіба ти не виходила?
 [XS:dantalk,1][C:15]Дана:[C:C] Виходила... і повернулась, бо #ти тут відлинюєш від роботи![STOPLIP:]
 [XS:jilltalk,1][C:13]Джилл:[C:C] Я відлинюю?
