@@ -195,7 +195,7 @@
 [XS:jilltalk,1][C:13]Джилл:[C:C] (Цікаво, чи Босс #вписала би мене.)[STOPLIP:]
 [XS:jilltalk,1][C:13]Джилл:[C:C] ...[STOPLIP:]
 [XS:jilltalk,1][C:13]Джилл:[C:C] (Ох, треба просто спробувати заснути...)[STOPLIP:]
-Fore: ...[STOPLIP:]
+Моська: ...[STOPLIP:]
 [XS:jilltalk,1][C:13]Джилл:[C:C] (Ні, Моська, забирайся.)[STOPLIP:]
 [XS:jilltalk,1][C:13]Джилл:[C:C] (Ні, шмат шерсті, навіть не #думай влягатись мені на ли-...)[STOPLIP:]
 [XS:jilltalk,1][C:13]Джилл:[C:C] МММММ.[XS:ph,13][E:7][STOPLIP:]
